@@ -1,6 +1,6 @@
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/minimal-mistakes/icons/archive/master.zip) option and extract the `.zip` file to the icons directory i.e. `/usr/share/icons/minimal-mistakes` or `~/.icons/minimal-mistakes` (create it if necessary).
+Download using the [GitHub .zip download](https://github.com/minimal-mistakes/icons/archive/main.zip) option and extract the `.zip` file to the icons directory i.e. `/usr/share/icons/minimal-mistakes` or `~/.icons/minimal-mistakes` (create it if necessary).
 
 #### Install using Git
 
@@ -24,7 +24,7 @@ or Change via distribution specific tweak tool.
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/minimal-mistakes/gtk/archive/master.zip) option and extract the `.zip` file to the themes directory i.e. `/usr/share/themes/minimal-mistakes` or `~/.themes/minimal-mistakes` (create it if necessary).
+Download using the [GitHub .zip download](https://github.com/minimal-mistakes/gtk/archive/main.zip) option and extract the `.zip` file to the themes directory i.e. `/usr/share/themes/minimal-mistakes` or `~/.themes/minimal-mistakes` (create it if necessary).
 
 #### Install using Git
 
@@ -49,7 +49,7 @@ or Change via distribution specific tweak tool.
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/minimal-mistakes/qt/archive/master.zip) option and extract the `.zip` file to the themes directory i.e. `~/.config/qt5ct/minimal-mistakes` and `~/.config/qt6ct/minimal-mistakes` (create it if necessary).
+Download using the [GitHub .zip download](https://github.com/minimal-mistakes/qt/archive/main.zip) option and extract the `.zip` file to the themes directory i.e. `~/.config/qt5ct/minimal-mistakes` and `~/.config/qt6ct/minimal-mistakes` (create it if necessary).
 
 #### Install using Git
 
