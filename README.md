@@ -2,7 +2,7 @@
 
 > A dark theme for [Kitty](https://sw.kovidgoyal.net/kitty/).
 
-![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/kitty/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/kitty/main/screenshot.png)
 
 ## Install
 
