@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/icons](https://minimal-mistakes.xyz/apps/themes/icons).
+All instructions can be found at [minimal-mistakes/icons](https://minimalmistakes.org/apps/themes/icons).
 
 ## Team
 
